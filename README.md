@@ -30,7 +30,7 @@ gcc -o map main.c $(sdl2-config --cflags --libs)
 
 [**Comprendre La Bibliothèque SDL**](https://zestedesavoir.com/tutoriels/1014/utiliser-la-sdl-en-langage-c/) | [**Wiki de la SDL**](https://wiki.libsdl.org/SDL2/Tutorials)
 
-(Optionnel++, c'est plus pour faire de la 3D que de la 2D mais c'est super intéressant) :
+(C'est plus pour faire de la 3D que de la 2D mais c'est super intéressant) :
 [**Comprendre le raycasting et le fonctionnement d'une map**](https://lodev.org/cgtutor/raycasting.html)
 
 ### Mon GitHub :
