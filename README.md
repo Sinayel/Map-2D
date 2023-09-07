@@ -35,7 +35,7 @@ gcc -o map main.c $(sdl2-config --cflags --libs)
 C'est plus pour faire de la 3D que de la 2D mais c'est super intéressant :
 [**Comprendre le raycasting et le fonctionnement d'une map**](https://lodev.org/cgtutor/raycasting.html)
 
-<span style="color: #333;">test</span>
+<span style="color: green;">Texte en vert</span>
 
 *(Si vous voulez modifier le code tout ce trouve dans le fichier [main.c](/Map%202D/main.c))*
 
