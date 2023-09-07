@@ -2,11 +2,9 @@
 Map 2D utilisants la bibliothèque sdl2, pour afficher et se déplacer.
 
 ## Commands
-```
-‎ ‎ ‎ ‎ ‎↑
-‎ 
-‎←‎↓‎→
-```
+<!-- Utilisation d'icônes Font Awesome -->
+<i class="fas fa-arrow-right"></i> Texte à droite
+
 | Touche        | Action        |
 | ------------- |:-------------:|
 | `←`           | deplacement gauche |
