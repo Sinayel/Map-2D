@@ -1,8 +1,8 @@
 # Map-2D
-A 2D game using sdl.
+Map 2D utilisants la bibliothèque sdl2, pour afficher et se déplacer.
 
-## To move around the map
-You can move around using the arrow keys.
+## Pour ce déplacer sur la carte
+Vous pouvez utilisez les flèches directionnelles pour vous déplacer.
 
 Compile :
 ```
@@ -12,3 +12,10 @@ Start :
 ```
 ./map
 ```
+
+## Liens utile
+tuto pour comprendre la bibliothèque sdl :
+https://zestedesavoir.com/tutoriels/1014/utiliser-la-sdl-en-langage-c/
+
+Wiki de sdl :
+https://wiki.libsdl.org/SDL2/Tutorials
