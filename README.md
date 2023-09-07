@@ -25,7 +25,7 @@ gcc -o map main.c $(sdl2-config --cflags --libs)
 ```
 *j'ai tout coder sur macos donc si vous avez êtes sur Windows/Linux essayer peut être cette méthode :*
 ```
-gcc -o mon_programme main.c -lSDL2 -lSDL2_ttf -lSDL2_image -lSDL2_mixer
+gcc -o mon_programme main.c -lSDL2
 ```
 ### Start :
 ```
