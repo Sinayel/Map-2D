@@ -5,10 +5,10 @@ Map 2D utilisants la bibliothèque sdl2, pour afficher et se déplacer.
 
 | Touche        | Action        |
 | ------------- |:-------------:|
-| `<-`           | deplacement gauche |
-| `->`           | deplacement droite |
-| `^`            | deplacement haut   |
-| `v`            | deplacement bas    |
+| `←`           | deplacement gauche |
+| `→`           | deplacement droite |
+| `↑`            | deplacement haut   |
+| `↓`            | deplacement bas    |
 ### Compile :
 ```
 gcc -o map main.c $(sdl2-config --cflags --libs)
