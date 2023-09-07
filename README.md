@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/l2JhCCLxwqKJjJMd6/giphy.gif" alt="Un GIF de test">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
 
 # Map-2D
 Ce projet en C utilise la bibliothèque SDL pour créer un jeu de déplacement où un joueur (carré vert) peut parcourir la map sans toucher les murs (carrés violets) en utilisant les flèches directionnelles du clavier.
