@@ -1,7 +1,7 @@
 # Map-2D
 gcc -o map main.c $(sdl2-config --cflags --libs)
 
-# Cub3D
+# COmpile Map
 A 2D game using sdl.
 
 Start
