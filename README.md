@@ -1,4 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/mCnNJF00DZbXlEy1TH" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/icecube-cubemelt-cubemeltgif-mCnNJF00DZbXlEy1TH">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/l2JhCCLxwqKJjJMd6/giphy.gif" alt="Un GIF de test">
 
 # Map-2D
 Ce projet en C utilise la bibliothèque SDL pour créer un jeu de déplacement où un joueur (carré vert) peut parcourir la map sans toucher les murs (carrés violets) en utilisant les flèches directionnelles du clavier.
