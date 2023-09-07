@@ -34,3 +34,7 @@ https://zestedesavoir.com/tutoriels/1014/utiliser-la-sdl-en-langage-c/
 Wiki de sdl :
 
 https://wiki.libsdl.org/SDL2/Tutorials
+
+[**Cliquez ici pour visiter mon site web**](https://www.exemple.com)
+
+[**GitHub**](https://github.com/votre-nom-utilisateur) | [**Twitter**](https://twitter.com/votre-compte)
