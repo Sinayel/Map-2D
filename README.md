@@ -2,9 +2,14 @@
 Map 2D utilisants la bibliothèque sdl2, pour afficher et se déplacer.
 
 ## Commands :
-<kbd>&uarr;</kbd>
- 
-<kbd>&larr;</kbd> <kbd>&darr;</kbd> <kbd>&rarr;</kbd>
+<div style="text-align:center;">
+  <div style="position:relative; display:inline-block;">
+    <div style="position:absolute; top:-1.5em; left:0; right:0; text-align:center;">
+      ↑
+    </div>
+    Texte centré avec une flèche vers le haut au-dessus
+  </div>
+</div>
 
 | Touche        | Action        |
 | ------------- |:-------------:|
