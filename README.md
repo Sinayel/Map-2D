@@ -1,5 +1,5 @@
 # Map-2D
-Map 2D utilisant la bibliothèque sdl2, pour afficher et se déplacer.
+Ce projet en C utilise la bibliothèque SDL pour créer un jeu de déplacement où un joueur (carré vert) doit éviter les obstacles (carrés violets) en utilisant les touches fléchées du clavier.
 
 ## Déplacement :
 <div style="text-align:center;">
