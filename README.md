@@ -24,7 +24,7 @@ Ce projet en C utilise la bibliothèque SDL pour créer un jeu de déplacement o
 ```
 gcc -o map main.c $(sdl2-config --cflags --libs)
 ```
-*j'ai tout coder sur macos donc si vous avez êtes sur Windows/Linux essayer peut être cette méthode :*
+*j'ai tout codé sur MacOS, donc si vous êtes sur Windows/Linux essayez cette méthode :*
 ```
 gcc -o mon_programme main.c -lSDL2
 ```
