@@ -19,7 +19,7 @@ Ce projet en C utilise la bibliothèque SDL pour créer un jeu de déplacement o
   </table>
 </div>
 
-### Compile :
+### Compiler :
 ```
 gcc -o map main.c $(sdl2-config --cflags --libs)
 ```
