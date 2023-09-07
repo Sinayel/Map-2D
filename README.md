@@ -2,7 +2,7 @@
 Map 2D utilisants la bibliothèque sdl2, pour afficher et se déplacer.
 
 ## Commands
-<kbd>&rarr;</kbd> Texte à droite
+<kbd>&rarr;</kbd> <kbd>&larr;</kbd>
 
 | Touche        | Action        |
 | ------------- |:-------------:|
