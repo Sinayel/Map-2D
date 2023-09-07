@@ -1,5 +1,5 @@
 # Map-2D
-Map 2D utilisants la bibliothèque sdl2, pour afficher et se déplacer.
+Map 2D utilisant la bibliothèque sdl2, pour afficher et se déplacer.
 
 ## Déplacement :
 <div style="text-align:center;">
