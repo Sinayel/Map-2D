@@ -3,13 +3,11 @@ Map 2D utilisants la bibliothèque sdl2, pour afficher et se déplacer.
 
 ## Commands :
 <div style="text-align:center;">
-  <div style="position:relative; display:inline-block;">
-    <div style="position:absolute; top:-1.5em; left:0; right:0; text-align:center;">
-      ↑
-    </div>
-    Texte centré avec une flèche vers le haut au-dessus
+  <div style="display:inline-block; border:1px solid #ccc; padding:10px;">
+    <kbd style="background-color:#f0f0f0;">&#8593;</kbd>
   </div>
 </div>
+
 
 | Touche        | Action        |
 | ------------- |:-------------:|
