@@ -17,6 +17,8 @@ Map 2D utilisants la bibliothèque sdl2, pour afficher et se déplacer.
   </table>
 </div>
 
+### Actions des touches
+
 | Touche        | Action        |
 | ------------- |:-------------:|
 | `←`           | deplacement gauche |
