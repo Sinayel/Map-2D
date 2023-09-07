@@ -26,15 +26,11 @@ gcc -o map main.c $(sdl2-config --cflags --libs)
 ./map
 ```
 
-## Liens utile
-tuto pour comprendre la bibliothèque sdl :
+## Liens utile :
 
-https://zestedesavoir.com/tutoriels/1014/utiliser-la-sdl-en-langage-c/
+[**Comprendre La Bibliothèque SDL**]((https://zestedesavoir.com/tutoriels/1014/utiliser-la-sdl-en-langage-c/))
 
-Wiki de sdl :
+[**Wiki de SDL**]((https://wiki.libsdl.org/SDL2/Tutorials))
 
-https://wiki.libsdl.org/SDL2/Tutorials
-
-[**Cliquez ici pour visiter mon site web**](https://www.exemple.com)
-
-[**GitHub**](https://github.com/votre-nom-utilisateur) | [**Twitter**](https://twitter.com/votre-compte)
+### Mon GitHub :
+[**GitHub**](https://github.com/Sinayel)
