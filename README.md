@@ -1,7 +1,7 @@
 # Map-2D
 Ce projet en C utilise la bibliothèque SDL pour créer un jeu de déplacement où un joueur (carré vert) peut parcourir la map sans toucher les murs (carrés violets) en utilisant les flèches directionnelles du clavier.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Cx1i5b7_XeI" frameborder="0" allowfullscreen></iframe>
+<iframe width="444" height="444" src="https://www.youtube.com/embed/Cx1i5b7_XeI" frameborder="0" allowfullscreen></iframe>
 
 ## Déplacement :
 <div style="text-align:center;">
