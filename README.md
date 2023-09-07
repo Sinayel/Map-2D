@@ -1,7 +1,7 @@
 # Map-2D
 Map 2D utilisants la bibliothèque sdl2, pour afficher et se déplacer.
 
-## Commands :
+## Déplacement :
 <div style="text-align:center;">
   <table>
     <tr>
@@ -17,14 +17,6 @@ Map 2D utilisants la bibliothèque sdl2, pour afficher et se déplacer.
   </table>
 </div>
 
-### Actions des touches
-
-| Touche        | Action        |
-| ------------- |:-------------:|
-| `←`           | deplacement gauche |
-| `→`           | deplacement droite |
-| `↑`            | deplacement haut   |
-| `↓`            | deplacement bas    |
 ### Compile :
 ```
 gcc -o map main.c $(sdl2-config --cflags --libs)
