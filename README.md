@@ -42,6 +42,9 @@ gcc -o map main.c -lSDL2
 
 **(Si vous voulez modifier le code tout ce trouve dans le fichier [main.c](/Map%202D/main.c))**
 
+### Mon GitHub :
+[**GitHub**](https://github.com/Sinayel)
+
 ## Installer SDL :
 ### Pour Linux
 ```
@@ -53,6 +56,3 @@ brew install sdl2
 ```
 ### Pour Windows :
 [**Tuto pour installer SDL sur windows**](https://www.matsson.com/prog/sdl2-mingw-w64-tutorial.php)
-
-### Mon GitHub :
-[**GitHub**](https://github.com/Sinayel)
